@@ -1,0 +1,69 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Thu May  7 12:59:31 2026
+
+@author: nan
+"""
+
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Thu May  7 12:57:41 2026
+
+@author: nan
+"""
+
+{
+  "questions": [
+    {
+      "question": "What animal do you connect with the most?",
+      "options": {
+        "Dog": "kind",
+        "Cat": "creative",
+        "Owl": "intelligent",
+        "Wolf": "independent"
+      }
+    },
+
+    {
+      "question": "What kind of weather do you enjoy most?",
+      "options": {
+        "Rainy": "calm",
+        "Sunny": "kind",
+        "Snowy": "intelligent",
+        "Windy": "adventurous"
+      }
+    },
+
+    {
+      "question": "When you feel stressed, what do you usually do?",
+      "options": {
+        "Talk to friends": "kind",
+        "Stay alone": "independent",
+        "Make a plan": "intelligent",
+        "Sleep": "calm"
+      }
+    },
+
+    {
+      "question": "Which color feels most comforting to you?",
+      "options": {
+        "Blue": "calm",
+        "Red": "adventurous",
+        "Green": "kind",
+        "Black": "creative"
+      }
+    },
+
+    {
+      "question": "What type of place would you rather visit?",
+      "options": {
+        "Mountains": "adventurous",
+        "Beach": "calm",
+        "City": "intelligent",
+        "Forest": "creative"
+      }
+    }
+  ]
+}
